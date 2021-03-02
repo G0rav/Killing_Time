@@ -4,7 +4,6 @@ I love to try things by my own and this repo is dedicated to the random stuff th
 
 ## Reading List: Articles I want to read during spare time.
 
---- 
 Entropy value - Infinity, as no one can count the randomness of these links.
 
 - https://medium.com/kaggle-blog
