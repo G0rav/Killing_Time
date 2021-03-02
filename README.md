@@ -3,10 +3,12 @@
 I love to try things by my own and this repo is dedicated to the random stuff that I do.
 
 ## Reading List: Articles I want to read during spare time.
-   Entropy value &‌infin  as no one can count the randomness of these links.
+
 --- 
+Entropy value &‌infin;  as no one can count the randomness of these links.
+
 - https://medium.com/kaggle-blog
-- 
+
 - https://missinglink.ai/guides/computer-vision/image-segmentation-deep-learning-methods-applications/
 
 - https://medium.com/gsi-technology/a-beginners-guide-to-segmentation-in-satellite-images-9c00d2028d52
